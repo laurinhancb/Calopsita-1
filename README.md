@@ -3,7 +3,7 @@
 
 #### Ele possui um layout estilizado e responsivo.
 
-#### O objetivo desse projeto é justamente criar uma página informativa e aprimorar os conhecimentos em desenvolvimento front-end
+#### O objetivo desse projeto é justamente criar uma página informativa e aprimorar os conhecimentos em desenvolvimento front-end.
 
 ### Linguagens utilizadas:
  - HTML
